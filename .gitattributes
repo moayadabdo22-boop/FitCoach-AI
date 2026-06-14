@@ -1,0 +1,15 @@
+# Git LFS tracked patterns — large binaries and datasets
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+
+# Track voice runtime/model directories and datasets via LFS
+ai_backend/voice/** filter=lfs diff=lfs merge=lfs -text
+ai_backend/datasets/** filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+ai_backend/voice_assets/** filter=lfs diff=lfs merge=lfs -text
+ai_backend/datasets/branded_food.csv filter=lfs diff=lfs merge=lfs -text
+ai_backend/datasets/programs_detailed_boostcamp_kaggle.csv filter=lfs diff=lfs merge=lfs -text

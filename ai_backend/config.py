@@ -1,0 +1,71 @@
+import os
+import logging
+from pathlib import Path
+from dotenv import load_dotenv
+
+BACKEND_DIR = Path(__file__).resolve().parent
+load_dotenv(dotenv_path=BACKEND_DIR / ".env", override=True)
+
+# LLM Configuration
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+LLM_MODEL = os.getenv("LLM_MODEL", "gpt-4o")
+OPENAI_VISION_MODEL = os.getenv("OPENAI_VISION_MODEL", LLM_MODEL or "gpt-4o")
+LLM_TEMPERATURE = float(os.getenv("LLM_TEMPERATURE", "0.7"))
+# Prefer auto so hosted deployments can immediately use OpenAI when a key exists.
+LLM_PROVIDER = os.getenv("LLM_PROVIDER", "auto").lower()
+OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434")
+OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "gpt-oss:120b-cloud")
+OLLAMA_VISION_MODEL = os.getenv("OLLAMA_VISION_MODEL", "")
+OLLAMA_TIMEOUT_SECONDS = int(os.getenv("OLLAMA_TIMEOUT_SECONDS", "120"))
+OLLAMA_VISION_TIMEOUT_SECONDS = int(os.getenv("OLLAMA_VISION_TIMEOUT_SECONDS", str(min(OLLAMA_TIMEOUT_SECONDS, 90))))
+
+# Supabase Configuration
+# Prefer backend-specific keys, and keep VITE_* as compatibility fallback.
+SUPABASE_URL = (
+    os.getenv("SUPABASE_URL", "").strip()
+    or os.getenv("VITE_SUPABASE_URL", "").strip()
+)
+SUPABASE_KEY = (
+    os.getenv("SUPABASE_ANON_KEY", "").strip()
+    or os.getenv("VITE_SUPABASE_ANON_KEY", "").strip()
+    or os.getenv("VITE_SUPABASE_PUBLISHABLE_KEY", "").strip()
+)
+SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "").strip()
+
+# FAISS Configuration
+FAISS_INDEX_PATH = os.getenv("FAISS_INDEX_PATH", "./ai_backend/faiss_index")
+EXERCISES_DATA_PATH = os.getenv("EXERCISES_DATA_PATH", "./ai_backend/exercises.json")
+
+# API Configuration
+API_HOST = os.getenv("API_HOST", "127.0.0.1")
+API_PORT = int(os.getenv("API_PORT", "8000"))
+CORS_ORIGINS = os.getenv("CORS_ORIGINS", "*").split(",")
+
+# Logging
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
+LOG_FILE = os.getenv("LOG_FILE", "./ai_backend/logs/app.log")
+
+# Rate Limiting
+RATE_LIMIT_REQUESTS = int(os.getenv("RATE_LIMIT_REQUESTS", "100"))
+RATE_LIMIT_WINDOW = int(os.getenv("RATE_LIMIT_WINDOW", "60"))
+
+# Memory Configuration
+SHORT_TERM_MEMORY_SIZE = int(os.getenv("SHORT_TERM_MEMORY_SIZE", "10"))
+LONG_TERM_MEMORY_ENABLED = os.getenv("LONG_TERM_MEMORY_ENABLED", "true").lower() == "true"
+
+# Streaming Configuration
+ENABLE_STREAMING = os.getenv("ENABLE_STREAMING", "true").lower() == "true"
+STREAMING_CHUNK_SIZE = int(os.getenv("STREAMING_CHUNK_SIZE", "50"))
+
+# Setup Logging
+os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
+logging.basicConfig(
+    level=getattr(logging, LOG_LEVEL),
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE),
+        logging.StreamHandler(),
+    ],
+)
+
+logger = logging.getLogger(__name__)

@@ -1,0 +1,17 @@
+2026-05-01 00:58:26,911 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2026-05-01 00:58:27,623 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+INFO:     Started server process [8848]
+INFO:     Waiting for application startup.
+2026-05-01 00:59:54,872 - main - INFO - Scheduling training pipeline initialization in the background
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+2026-05-01 00:59:55,072 - main - INFO - Initializing multi-dataset training pipeline...
+2026-05-01 00:59:55,121 - main - INFO - Training on 50+ datasets in the background
+2026-05-01 00:59:55,127 - training_pipeline - INFO - Starting multi-dataset training pipeline...
+2026-05-01 00:59:55,132 - training_pipeline - INFO - Loading datasets...
+2026-05-01 00:59:55,133 - multi_dataset_loader - INFO - Starting to load all datasets from D:\Ai Fit Coach\AI Fit Coach\ai_backend\datasets
+2026-05-01 00:59:55,135 - multi_dataset_loader - INFO - Loading exercise datasets...
+2026-05-01 00:59:55,432 - multi_dataset_loader - INFO - Loaded 2918 records from megaGymDataset.csv
+2026-05-01 00:59:55,519 - multi_dataset_loader - INFO - Loaded 2 records from programs_detailed_boostcamp_kaggle.csv
+2026-05-01 00:59:55,665 - multi_dataset_loader - INFO - Loaded 2598 records from fitness_and_workout_dataset.csv
+2026-05-01 00:59:55,812 - multi_dataset_loader - INFO - Loaded 2598 records from program_summary.csv

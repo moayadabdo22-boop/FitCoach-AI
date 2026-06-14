@@ -1,0 +1,10 @@
+Browserslist: browsers data (caniuse-lite) is 11 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/index.css. Does the file exist?
+[2m7:45:07 PM[22m [31m[1m[vite][22m[39m Pre-transform error: Failed to load url /src/integrations/supabase/client.ts (resolved id: D:/Ai Fit Coach/AI Fit Coach/src/integrations/supabase/client.ts) in D:/Ai Fit Coach/AI Fit Coach/src/pages/Onboarding.tsx. Does the file exist?

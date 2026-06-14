@@ -1,0 +1,23 @@
+[
+  {
+    "id": "debug-user_profile",
+    "text": "User profile: {\"goal\": \"muscle_gain\", \"trainingDaysPerWeek\": 4, \"fitnessLevel\": \"intermediate\", \"weight\": 110, \"height\": 185, \"age\": 28, \"fitness_level\": \"intermediate\", \"training_days_per_week\": 4, \"id\": \"debug-user\", \"user_id\": \"debug-user\"}",
+    "metadata": {
+      "kind": "profile"
+    }
+  },
+  {
+    "id": "debug-user_tracking_summary",
+    "text": "Tracking summary: {\"fitbit\": {\"configured\": true, \"connected\": false, \"scope\": [], \"last_sync_at\": null, \"profile\": {}, \"today_summary\": {}, \"activity_history\": [], \"heart_history\": [], \"sleep_history\": [], \"weight_history\": [], \"food_history\": [], \"water_history\": [], \"coach_summary\": {}}}",
+    "metadata": {
+      "kind": "tracking_summary"
+    }
+  },
+  {
+    "id": "debug-user_fitbit_summary",
+    "text": "Fitbit summary: {\"configured\": true, \"connected\": false, \"scope\": [], \"last_sync_at\": null, \"profile\": {}, \"today_summary\": {}, \"activity_history\": [], \"heart_history\": [], \"sleep_history\": [], \"weight_history\": [], \"food_history\": [], \"water_history\": [], \"coach_summary\": {}}",
+    "metadata": {
+      "kind": "fitbit_summary"
+    }
+  }
+]

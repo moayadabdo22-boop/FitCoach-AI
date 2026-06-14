@@ -1,0 +1,1894 @@
+{
+  "generated_at": "2026-04-30T21:59:53.901301+00:00",
+  "dataset_root": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets",
+  "entries": [
+    {
+      "relative_path": "acquisition_samples.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\acquisition_samples.csv",
+      "category": "acquisition_samples.csv",
+      "extension": ".csv",
+      "size_bytes": 151467,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id_of_sample_food",
+        "fdc_id_of_acquisition_food"
+      ],
+      "sample": [
+        "319874 | 319876",
+        "319874 | 319875"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "agricultural_samples.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\agricultural_samples.csv",
+      "category": "agricultural_samples.csv",
+      "extension": ".csv",
+      "size_bytes": 38059,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "acquisition_date",
+        "market_class",
+        "treatment",
+        "state"
+      ],
+      "sample": [
+        "335241 | 2016-11-11 | Dark Red Kidney | Control | PR",
+        "335242 | 2016-11-11 | Dark Red Kidney | Control | PR"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "all_downloaded_table_record_counts.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\all_downloaded_table_record_counts.csv",
+      "category": "all_downloaded_table_record_counts.csv",
+      "extension": ".csv",
+      "size_bytes": 1010,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Table",
+        "Number of Records"
+      ],
+      "sample": [
+        "acquisition_samples.csv | 7417",
+        "agricultural_samples.csv | 810"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "branded_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\branded_food.csv",
+      "category": "branded_food.csv",
+      "extension": ".csv",
+      "size_bytes": 134,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "version https://git-lfs.github.com/spec/v1"
+      ],
+      "sample": [
+        "oid sha256:1bc62905f3dbad8d5e4b9f9ed0bced1d30594aa0c33490db2fdec104993a44d8",
+        "size 950853506"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "daily_food_nutrition_dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\daily_food_nutrition_dataset.csv",
+      "category": "daily_food_nutrition_dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 47526,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Food_Item",
+        "Category",
+        "Calories (kcal)",
+        "Protein (g)",
+        "Carbohydrates (g)",
+        "Fat (g)",
+        "Fiber (g)",
+        "Sugars (g)",
+        "Sodium (mg)",
+        "Cholesterol (mg)",
+        "Meal_Type",
+        "Water_Intake (ml)"
+      ],
+      "sample": [
+        "Scrambled Eggs (2 large) | Protein/Dairy | 180 | 12.0 | 2.0 | 14.0 | 0.0 | 1.0",
+        "Whole Wheat Toast (1 slice) | Grain | 80 | 4.0 | 14.0 | 1.0 | 2.0 | 2.0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "dailyActivity_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\dailyActivity_merged.csv",
+      "category": "dailyActivity_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 110347,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityDate",
+        "TotalSteps",
+        "TotalDistance",
+        "TrackerDistance",
+        "LoggedActivitiesDistance",
+        "VeryActiveDistance",
+        "ModeratelyActiveDistance",
+        "LightActiveDistance",
+        "SedentaryActiveDistance",
+        "VeryActiveMinutes",
+        "FairlyActiveMinutes",
+        "LightlyActiveMinutes",
+        "SedentaryMinutes",
+        "Calories"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 | 13162 | 8.5 | 8.5 | 0 | 1.87999999523163 | 0.550000011920929",
+        "1503960366 | 4/13/2016 | 10735 | 6.96999979019165 | 6.96999979019165 | 0 | 1.57000005245209 | 0.689999997615814"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "dailyCalories_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\dailyCalories_merged.csv",
+      "category": "dailyCalories_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 24184,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityDay",
+        "Calories"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 | 1985",
+        "1503960366 | 4/13/2016 | 1797"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "dailyIntensities_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\dailyIntensities_merged.csv",
+      "category": "dailyIntensities_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 69640,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityDay",
+        "SedentaryMinutes",
+        "LightlyActiveMinutes",
+        "FairlyActiveMinutes",
+        "VeryActiveMinutes",
+        "SedentaryActiveDistance",
+        "LightActiveDistance",
+        "ModeratelyActiveDistance",
+        "VeryActiveDistance"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 | 728 | 328 | 13 | 25 | 0 | 6.05999994277954",
+        "1503960366 | 4/13/2016 | 776 | 217 | 19 | 21 | 0 | 4.71000003814697"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "dailySteps_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\dailySteps_merged.csv",
+      "category": "dailySteps_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 24234,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityDay",
+        "StepTotal"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 | 13162",
+        "1503960366 | 4/13/2016 | 10735"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "diet_recommendations_dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\diet_recommendations_dataset.csv",
+      "category": "diet_recommendations_dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 121020,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Patient_ID",
+        "Age",
+        "Gender",
+        "Weight_kg",
+        "Height_cm",
+        "BMI",
+        "Disease_Type",
+        "Severity",
+        "Physical_Activity_Level",
+        "Daily_Caloric_Intake",
+        "Cholesterol_mg/dL",
+        "Blood_Pressure_mmHg",
+        "Glucose_mg/dL",
+        "Dietary_Restrictions",
+        "Allergies",
+        "Preferred_Cuisine",
+        "Weekly_Exercise_Hours",
+        "Adherence_to_Diet_Plan",
+        "Dietary_Nutrient_Imbalance_Score",
+        "Diet_Recommendation"
+      ],
+      "sample": [
+        "P0001 | 56 | Male | 58.4 | 160 | 22.8 | Obesity | Moderate",
+        "P0002 | 69 | Male | 101.2 | 169 | 35.4 | Diabetes | Mild"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "plan_success",
+        "plans",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "Download API Field Descriptions.xlsx",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\Download API Field Descriptions.xlsx",
+      "category": "Download API Field Descriptions.xlsx",
+      "extension": ".xlsx",
+      "size_bytes": 32849,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [],
+      "sample": [],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "fitness-recommendation-dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\fitness-recommendation-dataset.csv",
+      "category": "fitness-recommendation-dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 21406024,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "ID",
+        "Sex",
+        "Age",
+        "Height",
+        "Weight",
+        "Hypertension",
+        "Diabetes",
+        "BMI",
+        "Level",
+        "Fitness Goal",
+        "Fitness Type",
+        "Exercises",
+        "Equipment",
+        "Diet",
+        "Recommendation"
+      ],
+      "sample": [
+        "1 | Male | 18 | 1.68 | 47.5 | No | No | 16.83",
+        "2 | Male | 18 | 1.68 | 47.5 | Yes | No | 16.83"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "fitness_and_workout_dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\fitness_and_workout_dataset.csv",
+      "category": "fitness_and_workout_dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 1164764,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "title",
+        "description",
+        "level",
+        "goal",
+        "equipment",
+        "program_length",
+        "time_per_workout",
+        "total_exercises",
+        "created",
+        "last_edit"
+      ],
+      "sample": [
+        "(MASS MONSTER) High Intensity 4 Day Upper Lower Program | Build tones of muscular with this high intensity 4 day upper lower workout routine.\n\nWeekly Setup:\nDay 1 - Upper Push Focus\nDay 2 - Lower Quad Focus\nDay 3 - Rest/Active Recovery\nDay 4 - Upper Pull Focus\nDay 5 - Rest/Active",
+        "(NOT MY PROGRAM)SHJ Jotaro | Build strength and size | ['Advanced', 'Intermediate'] | ['Bodybuilding'] | Full Gym | 8.0 | 60.0 | 224"
+      ],
+      "json_keys": [],
+      "tags": [
+        "plans",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "fndds_derivation.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\fndds_derivation.csv",
+      "category": "fndds_derivation.csv",
+      "extension": ".csv",
+      "size_bytes": 4826,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "derivation code",
+        "derivation description"
+      ],
+      "sample": [
+        "A | Analytical",
+        "AI | Analytical data; from the literature or  government;  incomplete documentation"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "fndds_ingredient_nutrient_value.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\fndds_ingredient_nutrient_value.csv",
+      "category": "fndds_ingredient_nutrient_value.csv",
+      "extension": ".csv",
+      "size_bytes": 36286830,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "ingredient code",
+        "Ingredient description",
+        "Nutrient code",
+        "Nutrient value",
+        "Nutrient value source",
+        "FDC ID",
+        "Derivation code",
+        "SR AddMod year",
+        "Foundation year acquired",
+        "Start date",
+        "End date"
+      ],
+      "sample": [
+        "1001 | Butter, salted | 203 | 0.85 | SR Legacy | 173410 | 1976 | 0",
+        "1001 | Butter, salted | 204 | 81.11 | SR Legacy | 173410 | 1976 | 0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "food-allergens.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food-allergens.csv",
+      "category": "food-allergens.csv",
+      "extension": ".csv",
+      "size_bytes": 1678,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Hauptgruppe",
+        "Untergruppe"
+      ],
+      "sample": [
+        "Glutenhaltige Getreide | Weizen",
+        "Glutenhaltige Getreide | Roggen"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food.csv",
+      "category": "food.csv",
+      "extension": ".csv",
+      "size_bytes": 6464120,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "data_type",
+        "description",
+        "food_category_id",
+        "publication_date"
+      ],
+      "sample": [
+        "319874 | sample_food | HUMMUS, SABRA CLASSIC | 16 | 2019-04-01",
+        "319875 | market_acquisition | HUMMUS, SABRA CLASSIC | 16 | 2019-04-01"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_allergy_dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_allergy_dataset.csv",
+      "category": "food_allergy_dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 674491,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Age",
+        "Gender",
+        "Family_History",
+        "Previous_Reaction",
+        "Symptoms",
+        "Food_Type",
+        "Food_Frequency",
+        "Medical_Conditions",
+        "IgE_Levels",
+        "Severity_Score",
+        "Allergic"
+      ],
+      "sample": [
+        "56 | Other | No | Moderate | Swelling | Gluten | 15 | Asthma",
+        "19 | Male | No | None | Swelling | Eggs | 12 | None"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_attribute.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_attribute.csv",
+      "category": "food_attribute.csv",
+      "extension": ".csv",
+      "size_bytes": 753585,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id",
+        "seq_num",
+        "food_attribute_type_id",
+        "name",
+        "value"
+      ],
+      "sample": [
+        "3398229 | 321358 | Ontology Name For Source | legume food product",
+        "3398228 | 321358 | Ontology ID For Source | http://purl.obolibrary.org/obo/FOODON_00001264"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_attribute_type.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_attribute_type.csv",
+      "category": "food_attribute_type.csv",
+      "extension": ".csv",
+      "size_bytes": 331,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "name",
+        "description"
+      ],
+      "sample": [
+        "998 | Update Log | Changes that were made to this food",
+        "999 | Attribute | Generic attributes"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_calorie_conversion_factor.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_calorie_conversion_factor.csv",
+      "category": "food_calorie_conversion_factor.csv",
+      "extension": ".csv",
+      "size_bytes": 11203,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "food_nutrient_conversion_factor_id",
+        "protein_value",
+        "fat_value",
+        "carbohydrate_value"
+      ],
+      "sample": [
+        "22503 | 3.47 | 8.37 | 4.07",
+        "22505 | 4.27 | 8.79 | 3.87"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_category.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_category.csv",
+      "category": "food_category.csv",
+      "extension": ".csv",
+      "size_bytes": 997,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "code",
+        "description"
+      ],
+      "sample": [
+        "1 | 0100 | Dairy and Egg Products",
+        "2 | 0200 | Spices and Herbs"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_component.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_component.csv",
+      "category": "food_component.csv",
+      "extension": ".csv",
+      "size_bytes": 158565,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id",
+        "name",
+        "pct_weight",
+        "is_refuse",
+        "gram_weight",
+        "data_points",
+        "min_year_acqured"
+      ],
+      "sample": [
+        "56885 | Bone and connective tissue | 0.1 | Y | 1.3 | 2",
+        "56886 | External fat | 1.0 | Y | 9.6 | 2"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_nutrient.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_nutrient.csv",
+      "category": "food_nutrient.csv",
+      "extension": ".csv",
+      "size_bytes": 9411198,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id",
+        "nutrient_id",
+        "amount",
+        "data_points",
+        "derivation_id",
+        "min",
+        "max",
+        "median",
+        "footnote",
+        "min_year_acquired"
+      ],
+      "sample": [
+        "2201847 | 319877 | 1051 | 56.3 | 1 | 1",
+        "2201845 | 319877 | 1002 | 1.28 | 1 | 1"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_nutrient_conversion_factor.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_nutrient_conversion_factor.csv",
+      "category": "food_nutrient_conversion_factor.csv",
+      "extension": ".csv",
+      "size_bytes": 196484,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id"
+      ],
+      "sample": [
+        "22721 | 746952",
+        "22722 | 747429"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_nutrient_derivation.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_nutrient_derivation.csv",
+      "category": "food_nutrient_derivation.csv",
+      "extension": ".csv",
+      "size_bytes": 8294,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "code",
+        "description"
+      ],
+      "sample": [
+        "1 | A | Analytical",
+        "2 | AI | Analytical data; from the literature or  government;  incomplete documentation"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_nutrient_source.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_nutrient_source.csv",
+      "category": "food_nutrient_source.csv",
+      "extension": ".csv",
+      "size_bytes": 602,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "code",
+        "description"
+      ],
+      "sample": [
+        "1 | 1 | Analytical or derived from analytical",
+        "2 | 4 | Calculated or imputed"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_portion.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_portion.csv",
+      "category": "food_portion.csv",
+      "extension": ".csv",
+      "size_bytes": 714051,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id",
+        "seq_num",
+        "amount",
+        "measure_unit_id",
+        "portion_description",
+        "modifier",
+        "gram_weight",
+        "data_points",
+        "footnote",
+        "min_year_acquired"
+      ],
+      "sample": [
+        "118702 | 319875 | 2.0 | 1001 | 35.8 | 1",
+        "118703 | 319880 | 2.0 | 1001 | 36.2 | 1"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_protein_conversion_factor.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_protein_conversion_factor.csv",
+      "category": "food_protein_conversion_factor.csv",
+      "extension": ".csv",
+      "size_bytes": 5516,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "food_nutrient_conversion_factor_id",
+        "value"
+      ],
+      "sample": [
+        "22504 | 6.25",
+        "22506 | 6.38"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "food_update_log_entry.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\food_update_log_entry.csv",
+      "category": "food_update_log_entry.csv",
+      "extension": ".csv",
+      "size_bytes": 4692776,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "description",
+        "last_updated"
+      ],
+      "sample": [
+        "319874 | HUMMUS, SABRA CLASSIC | 2019-04-01",
+        "319875 | HUMMUS, SABRA CLASSIC | 2019-04-01"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "foundation_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\foundation_food.csv",
+      "category": "foundation_food.csv",
+      "extension": ".csv",
+      "size_bytes": 16624,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "NDB_number",
+        "footnote"
+      ],
+      "sample": [
+        "321358 | 16158",
+        "321360 | 100147"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "goal_model_eval_fixture.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\goal_model_eval_fixture.csv",
+      "category": "goal_model_eval_fixture.csv",
+      "extension": ".csv",
+      "size_bytes": 952,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Age",
+        "Gender",
+        "Weight (kg)",
+        "Height (m)",
+        "BMI",
+        "Fat_Percentage",
+        "Workout_Frequency (days/week)",
+        "Experience_Level",
+        "Calories_Burned",
+        "Avg_BPM"
+      ],
+      "sample": [
+        "24 | Male | 68 | 1.78 | 21.5 | 14 | 5 | Intermediate",
+        "27 | Female | 59 | 1.66 | 21.4 | 20 | 4 | Intermediate"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "gym recommendation.xlsx",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\gym recommendation.xlsx",
+      "category": "gym recommendation.xlsx",
+      "extension": ".xlsx",
+      "size_bytes": 966965,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [],
+      "sample": [],
+      "json_keys": [],
+      "tags": [
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "gym_members_exercise_tracking.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\gym_members_exercise_tracking.csv",
+      "category": "gym_members_exercise_tracking.csv",
+      "extension": ".csv",
+      "size_bytes": 65136,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Age",
+        "Gender",
+        "Weight (kg)",
+        "Height (m)",
+        "Max_BPM",
+        "Avg_BPM",
+        "Resting_BPM",
+        "Session_Duration (hours)",
+        "Calories_Burned",
+        "Workout_Type",
+        "Fat_Percentage",
+        "Water_Intake (liters)",
+        "Workout_Frequency (days/week)",
+        "Experience_Level",
+        "BMI"
+      ],
+      "sample": [
+        "56 | Male | 88.3 | 1.71 | 180 | 157 | 60 | 1.69",
+        "46 | Female | 74.9 | 1.53 | 179 | 151 | 66 | 1.3"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "Gym_Progress_Dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\Gym_Progress_Dataset.csv",
+      "category": "Gym_Progress_Dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 6716,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Day",
+        "Weight_kg",
+        "Calories_Intake",
+        "Protein_Intake_g",
+        "Workout_Duration_min",
+        "Steps_Walked"
+      ],
+      "sample": [
+        "2025-01-01 | 71.5 | 3209 | 70 | 41 | 6820",
+        "2025-01-02 | 69.6 | 2584 | 150 | 40 | 4898"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "health_fitness_dataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\health_fitness_dataset.csv",
+      "category": "health_fitness_dataset.csv",
+      "extension": ".csv",
+      "size_bytes": 77732516,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "participant_id",
+        "date",
+        "age",
+        "gender",
+        "height_cm",
+        "weight_kg",
+        "activity_type",
+        "duration_minutes",
+        "intensity",
+        "calories_burned",
+        "avg_heart_rate",
+        "hours_sleep",
+        "stress_level",
+        "daily_steps",
+        "hydration_level",
+        "bmi",
+        "resting_heart_rate",
+        "blood_pressure_systolic",
+        "blood_pressure_diastolic",
+        "health_condition",
+        "smoking_status",
+        "fitness_level"
+      ],
+      "sample": [
+        "1 | 2024-01-01 | 56 | F | 165.3 | 53.7 | Dancing | 41",
+        "1 | 2024-01-04 | 56 | F | 165.3 | 53.9 | Swimming | 28"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "heartrate_seconds_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\heartrate_seconds_merged.csv",
+      "category": "heartrate_seconds_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 87104644,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "Time",
+        "Value"
+      ],
+      "sample": [
+        "2022484408 | 4/12/2016 7:21:00 AM | 97",
+        "2022484408 | 4/12/2016 7:21:05 AM | 102"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "hourlyCalories_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\hourlyCalories_merged.csv",
+      "category": "hourlyCalories_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 779386,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "Calories"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 81",
+        "1503960366 | 4/12/2016 1:00:00 AM | 61"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "hourlyIntensities_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\hourlyIntensities_merged.csv",
+      "category": "hourlyIntensities_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 876678,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "TotalIntensity",
+        "AverageIntensity"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 20 | 0.333333",
+        "1503960366 | 4/12/2016 1:00:00 AM | 8 | 0.133333"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "hourlySteps_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\hourlySteps_merged.csv",
+      "category": "hourlySteps_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 774462,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "StepTotal"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 373",
+        "1503960366 | 4/12/2016 1:00:00 AM | 160"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "input_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\input_food.csv",
+      "category": "input_food.csv",
+      "extension": ".csv",
+      "size_bytes": 316681,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "fdc_id",
+        "fdc_of_input_food",
+        "seq_num",
+        "amount",
+        "ingredient_code",
+        "ingredient_description",
+        "unit",
+        "portion_code",
+        "portion_description",
+        "gram_weight",
+        "retention_code"
+      ],
+      "sample": [
+        "10437 | 321358 | 319984",
+        "10438 | 321358 | 320005"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "lab_method.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\lab_method.csv",
+      "category": "lab_method.csv",
+      "extension": ".csv",
+      "size_bytes": 12326,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "description",
+        "technique"
+      ],
+      "sample": [
+        "1000 | NIST Handbook 133 | Gravimetric",
+        "1001 | AOAC 968.06 + 992.15 | Combustion"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "lab_method_code.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\lab_method_code.csv",
+      "category": "lab_method_code.csv",
+      "extension": ".csv",
+      "size_bytes": 4014,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "lab_method_id",
+        "code"
+      ],
+      "sample": [
+        "1001 | DGEN_S",
+        "1003 | FAT-MJ-FLT-CHG"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "lab_method_nutrient.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\lab_method_nutrient.csv",
+      "category": "lab_method_nutrient.csv",
+      "extension": ".csv",
+      "size_bytes": 7996,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "lab_method_id",
+        "nutrient_id"
+      ],
+      "sample": [
+        "1001 | 1002",
+        "1001 | 1003"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "market_acquisition.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\market_acquisition.csv",
+      "category": "market_acquisition.csv",
+      "extension": ".csv",
+      "size_bytes": 889480,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "brand_description",
+        "expiration_date",
+        "label_weight",
+        "location",
+        "acquisition_date",
+        "sales_type",
+        "sample_lot_nbr",
+        "sell_by_date",
+        "store_city",
+        "store_name",
+        "store_state",
+        "upc_code",
+        "acquisition_number"
+      ],
+      "sample": [
+        "319875 | 2015-11-09 | NE1 | 2015-10-06 | 10:0823 | HASTINGS | ALLENS FOOD MART | NE",
+        "319876 | 2015-11-09 | NE1 | 2015-10-06 | 10:0823 | HASTINGS | ALLENS FOOD MART | NE"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress"
+      ]
+    },
+    {
+      "relative_path": "measure_unit.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\measure_unit.csv",
+      "category": "measure_unit.csv",
+      "extension": ".csv",
+      "size_bytes": 1969,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "name"
+      ],
+      "sample": [
+        "1000 | cup",
+        "1001 | tablespoon"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "megaGymDataset.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\megaGymDataset.csv",
+      "category": "megaGymDataset.csv",
+      "extension": ".csv",
+      "size_bytes": 670239,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Title",
+        "Desc",
+        "Type",
+        "BodyPart",
+        "Equipment",
+        "Level",
+        "Rating",
+        "RatingDesc"
+      ],
+      "sample": [
+        "0 | Partner plank band row | The partner plank band row is an abdominal exercise where two partners perform single-arm planks while pulling on the opposite ends of an exercise band. This technique can be done for time or reps in any ab-focused workout. | Strength | Abdominals | B",
+        "1 | Banded crunch isometric hold | The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. The band adds resistance and continuous tension to this popular exercise. | Strength | Abdominals | Bands |"
+      ],
+      "json_keys": [],
+      "tags": [
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "microbe.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\microbe.csv",
+      "category": "microbe.csv",
+      "extension": ".csv",
+      "size_bytes": 1579,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "foodId",
+        "method",
+        "microbe_code",
+        "min_value",
+        "max_value",
+        "uom"
+      ],
+      "sample": [
+        "1 | 2331974 | AEROBIC_PLATE_COUNT | LACTICASEIBACILLUS_PARACASEI | 10000000",
+        "2 | 2332523 | AEROBIC_PLATE_COUNT | LACTICASEIBACILLUS_PARACASEI | 10000000"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "minuteCaloriesNarrow_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteCaloriesNarrow_merged.csv",
+      "category": "minuteCaloriesNarrow_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 65118273,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityMinute",
+        "Calories"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 0.786499977111816",
+        "1503960366 | 4/12/2016 12:01:00 AM | 0.786499977111816"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "minuteCaloriesWide_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteCaloriesWide_merged.csv",
+      "category": "minuteCaloriesWide_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 22971435,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "Calories00",
+        "Calories01",
+        "Calories02",
+        "Calories03",
+        "Calories04",
+        "Calories05",
+        "Calories06",
+        "Calories07",
+        "Calories08",
+        "Calories09",
+        "Calories10",
+        "Calories11",
+        "Calories12",
+        "Calories13",
+        "Calories14",
+        "Calories15",
+        "Calories16",
+        "Calories17",
+        "Calories18",
+        "Calories19",
+        "Calories20",
+        "Calories21",
+        "Calories22",
+        "Calories23",
+        "Calories24",
+        "Calories25",
+        "Calories26",
+        "Calories27"
+      ],
+      "sample": [
+        "1503960366 | 4/13/2016 12:00:00 AM | 1.88759994506836 | 2.20219993591309 | 0.94379997253418 | 0.94379997253418 | 0.94379997253418 | 2.04489994049072",
+        "1503960366 | 4/13/2016 1:00:00 AM | 0.786499977111816 | 0.786499977111816 | 0.786499977111816 | 0.786499977111816 | 0.94379997253418 | 0.94379997253418"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "minuteIntensitiesNarrow_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteIntensitiesNarrow_merged.csv",
+      "category": "minuteIntensitiesNarrow_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 45033208,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityMinute",
+        "Intensity"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 0",
+        "1503960366 | 4/12/2016 12:01:00 AM | 0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "minuteIntensitiesWide_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteIntensitiesWide_merged.csv",
+      "category": "minuteIntensitiesWide_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 3290039,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "Intensity00",
+        "Intensity01",
+        "Intensity02",
+        "Intensity03",
+        "Intensity04",
+        "Intensity05",
+        "Intensity06",
+        "Intensity07",
+        "Intensity08",
+        "Intensity09",
+        "Intensity10",
+        "Intensity11",
+        "Intensity12",
+        "Intensity13",
+        "Intensity14",
+        "Intensity15",
+        "Intensity16",
+        "Intensity17",
+        "Intensity18",
+        "Intensity19",
+        "Intensity20",
+        "Intensity21",
+        "Intensity22",
+        "Intensity23",
+        "Intensity24",
+        "Intensity25",
+        "Intensity26",
+        "Intensity27"
+      ],
+      "sample": [
+        "1503960366 | 4/13/2016 12:00:00 AM | 1 | 1 | 0 | 0 | 0 | 1",
+        "1503960366 | 4/13/2016 1:00:00 AM | 0 | 0 | 0 | 0 | 0 | 0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "minuteMETsNarrow_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteMETsNarrow_merged.csv",
+      "category": "minuteMETsNarrow_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 46361102,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityMinute",
+        "METs"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 10",
+        "1503960366 | 4/12/2016 12:01:00 AM | 10"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "minuteSleep_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteSleep_merged.csv",
+      "category": "minuteSleep_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 8659848,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "date",
+        "value",
+        "logId"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 2:47:30 AM | 3 | 11380564589",
+        "1503960366 | 4/12/2016 2:48:30 AM | 2 | 11380564589"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "minuteStepsNarrow_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteStepsNarrow_merged.csv",
+      "category": "minuteStepsNarrow_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 45206376,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityMinute",
+        "Steps"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 0",
+        "1503960366 | 4/12/2016 12:01:00 AM | 0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "minuteStepsWide_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\minuteStepsWide_merged.csv",
+      "category": "minuteStepsWide_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 3459528,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "ActivityHour",
+        "Steps00",
+        "Steps01",
+        "Steps02",
+        "Steps03",
+        "Steps04",
+        "Steps05",
+        "Steps06",
+        "Steps07",
+        "Steps08",
+        "Steps09",
+        "Steps10",
+        "Steps11",
+        "Steps12",
+        "Steps13",
+        "Steps14",
+        "Steps15",
+        "Steps16",
+        "Steps17",
+        "Steps18",
+        "Steps19",
+        "Steps20",
+        "Steps21",
+        "Steps22",
+        "Steps23",
+        "Steps24",
+        "Steps25",
+        "Steps26",
+        "Steps27"
+      ],
+      "sample": [
+        "1503960366 | 4/13/2016 12:00:00 AM | 4 | 16 | 0 | 0 | 0 | 9",
+        "1503960366 | 4/13/2016 1:00:00 AM | 0 | 0 | 0 | 0 | 0 | 0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "nutrient.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\nutrient.csv",
+      "category": "nutrient.csv",
+      "extension": ".csv",
+      "size_bytes": 21556,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "id",
+        "name",
+        "unit_name",
+        "nutrient_nbr",
+        "rank"
+      ],
+      "sample": [
+        "2047 | Energy (Atwater General Factors) | KCAL | 957 | 280.0",
+        "2048 | Energy (Atwater Specific Factors) | KCAL | 958 | 290.0"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "nutrition.xlsx",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\nutrition.xlsx",
+      "category": "nutrition.xlsx",
+      "extension": ".xlsx",
+      "size_bytes": 3357641,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [],
+      "sample": [],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "nutritionverse_dish_metadata3.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\nutritionverse_dish_metadata3.csv",
+      "category": "nutritionverse_dish_metadata3.csv",
+      "extension": ".csv",
+      "size_bytes": 204499,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "dish_id",
+        "total_food_weight",
+        "total_calories",
+        "total_fats",
+        "total_carbohydrates",
+        "total_protein",
+        "total_calcium",
+        "total_iron",
+        "total_magnesium",
+        "total_potassium",
+        "total_sodium",
+        "total_vitamin_d",
+        "total_vitamin_b12",
+        "food_item_type_1",
+        "food_weight_g_1",
+        "calories(kCal)_1",
+        "fat(g)_1",
+        "carbohydrates(g)_1",
+        "protein(g)_1",
+        "calcium(mg)_1",
+        "iron(mg)_1",
+        "magnesium(mg)_1",
+        "potassium(mg)_1",
+        "sodium(mg)_1",
+        "vitamin_d(µg)_1",
+        "vitamin_b12(µg)_1",
+        "food_item_type_2",
+        "food_weight_g_2",
+        "calories(kCal)_2",
+        "fat(g)_2"
+      ],
+      "sample": [
+        "1 | 165.0 | 95.72999999999999 | 0.33359999999999995 | 22.7958 | 0.5048999999999999 | 0.012329999999999999 | 0.0001986",
+        "2 | 127.00000000000001 | 186.99 | 1.8662 | 21.1603 | 19.8902 | 0.11461 | 0.0018045000000000001"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "Personalized_Diet_Recommendations.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\Personalized_Diet_Recommendations.csv",
+      "category": "Personalized_Diet_Recommendations.csv",
+      "extension": ".csv",
+      "size_bytes": 759219,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Patient_ID",
+        "Age",
+        "Gender",
+        "Height_cm",
+        "Weight_kg",
+        "BMI",
+        "Chronic_Disease",
+        "Blood_Pressure_Systolic",
+        "Blood_Pressure_Diastolic",
+        "Cholesterol_Level",
+        "Blood_Sugar_Level",
+        "Genetic_Risk_Factor",
+        "Allergies",
+        "Daily_Steps",
+        "Exercise_Frequency",
+        "Sleep_Hours",
+        "Alcohol_Consumption",
+        "Smoking_Habit",
+        "Dietary_Habits",
+        "Caloric_Intake",
+        "Protein_Intake",
+        "Carbohydrate_Intake",
+        "Fat_Intake",
+        "Preferred_Cuisine",
+        "Food_Aversions",
+        "Recommended_Calories",
+        "Recommended_Protein",
+        "Recommended_Carbs",
+        "Recommended_Fats",
+        "Recommended_Meal_Plan"
+      ],
+      "sample": [
+        "P00001 | 56 | Other | 163 | 66 | 24.84 | None | 175",
+        "P00002 | 69 | Female | 171 | 114 | 38.99 | None | 155"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition",
+        "plans",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "pred_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\pred_food.csv",
+      "category": "pred_food.csv",
+      "extension": ".csv",
+      "size_bytes": 26079,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Food Name",
+        "Glycemic Index",
+        "Calories",
+        "Carbohydrates",
+        "Protein",
+        "Fat",
+        "Suitable for Diabetes",
+        "Suitable for Blood Pressure",
+        "Sodium Content",
+        "Potassium Content",
+        "Magnesium Content",
+        "Calcium Content",
+        "Fiber Content"
+      ],
+      "sample": [
+        "Apple | 39 | 52 | 14.0 | 0.3 | 0.2 | 1 | 1",
+        "Banana | 51 | 96 | 23.0 | 1.1 | 0.2 | 1 | 1"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "program_summary.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\program_summary.csv",
+      "category": "program_summary.csv",
+      "extension": ".csv",
+      "size_bytes": 1164764,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "title",
+        "description",
+        "level",
+        "goal",
+        "equipment",
+        "program_length",
+        "time_per_workout",
+        "total_exercises",
+        "created",
+        "last_edit"
+      ],
+      "sample": [
+        "(MASS MONSTER) High Intensity 4 Day Upper Lower Program | Build tones of muscular with this high intensity 4 day upper lower workout routine.\n\nWeekly Setup:\nDay 1 - Upper Push Focus\nDay 2 - Lower Quad Focus\nDay 3 - Rest/Active Recovery\nDay 4 - Upper Pull Focus\nDay 5 - Rest/Active",
+        "(NOT MY PROGRAM)SHJ Jotaro | Build strength and size | ['Advanced', 'Intermediate'] | ['Bodybuilding'] | Full Gym | 8.0 | 60.0 | 224"
+      ],
+      "json_keys": [],
+      "tags": [
+        "plans",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "programs_detailed_boostcamp_kaggle.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\programs_detailed_boostcamp_kaggle.csv",
+      "category": "programs_detailed_boostcamp_kaggle.csv",
+      "extension": ".csv",
+      "size_bytes": 134,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "version https://git-lfs.github.com/spec/v1"
+      ],
+      "sample": [
+        "oid sha256:21e0980cc42bd420191cc3b9975f77b487dd55e159106b7f77a07819edf2da0f",
+        "size 294831276"
+      ],
+      "json_keys": [],
+      "tags": [
+        "plans"
+      ]
+    },
+    {
+      "relative_path": "retention_factor.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\retention_factor.csv",
+      "category": "retention_factor.csv",
+      "extension": ".csv",
+      "size_bytes": 13311,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "n.gid",
+        "n.code",
+        "n.foodGroupId",
+        "n.description"
+      ],
+      "sample": [
+        "1 | 1 | 1 | CHEESE, BAKED",
+        "2 | 3 | 1 | CHEESE, BROILED"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "sample_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\sample_food.csv",
+      "category": "sample_food.csv",
+      "extension": ".csv",
+      "size_bytes": 37178,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id"
+      ],
+      "sample": [
+        "319874",
+        "319879"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "sleepDay_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\sleepDay_merged.csv",
+      "category": "sleepDay_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 17686,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "SleepDay",
+        "TotalSleepRecords",
+        "TotalMinutesAsleep",
+        "TotalTimeInBed"
+      ],
+      "sample": [
+        "1503960366 | 4/12/2016 12:00:00 AM | 1 | 327 | 346",
+        "1503960366 | 4/13/2016 12:00:00 AM | 2 | 384 | 407"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "sr_legacy_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\sr_legacy_food.csv",
+      "category": "sr_legacy_food.csv",
+      "extension": ".csv",
+      "size_bytes": 130404,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "NDB_number"
+      ],
+      "sample": [
+        "167512 | 18634",
+        "167513 | 18635"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "sub_sample_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\sub_sample_food.csv",
+      "category": "sub_sample_food.csv",
+      "extension": ".csv",
+      "size_bytes": 1287451,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "fdc_id_of_sample_food"
+      ],
+      "sample": [
+        "319877 | 319874",
+        "319878 | 319874"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "sub_sample_result.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\sub_sample_result.csv",
+      "category": "sub_sample_result.csv",
+      "extension": ".csv",
+      "size_bytes": 4844884,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "food_nutrient_id",
+        "adjusted_amount",
+        "lab_method_id",
+        "nutrient_name"
+      ],
+      "sample": [
+        "2201844 | 1.98 | 1004 | Ash",
+        "2201845 | 1.28 | 1001 | Nitrogen by Dumas"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "success_model_eval_fixture.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\success_model_eval_fixture.csv",
+      "category": "success_model_eval_fixture.csv",
+      "extension": ".csv",
+      "size_bytes": 1005,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "age",
+        "gender",
+        "membership_type",
+        "workout_type",
+        "workout_duration_minutes",
+        "calories_burned",
+        "check_in_time",
+        "attendance_status"
+      ],
+      "sample": [
+        "24 | Male | Premium | Strength | 55 | 430 | 06:15 | present",
+        "27 | Female | Standard | Cardio | 40 | 310 | 07:10 | present"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition",
+        "plan_success",
+        "workout"
+      ]
+    },
+    {
+      "relative_path": "survey_fndds_food.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\survey_fndds_food.csv",
+      "category": "survey_fndds_food.csv",
+      "extension": ".csv",
+      "size_bytes": 293395,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "fdc_id",
+        "food_code",
+        "wweia_category_code",
+        "start_date",
+        "end_date"
+      ],
+      "sample": [
+        "2705383 | 11000000 | 9602 | 2021-01-01 | 2023-12-31",
+        "2705384 | 11100000 | 1004 | 2021-01-01 | 2023-12-31"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "updated-manual-dataset-splits.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\updated-manual-dataset-splits.csv",
+      "category": "updated-manual-dataset-splits.csv",
+      "extension": ".csv",
+      "size_bytes": 60534,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "file_name",
+        "category"
+      ],
+      "sample": [
+        "dish_100_IMG_8463_jpeg.rf.12dff1eff06891929b113d0008f31c25.jpg | Train",
+        "dish_100_IMG_8464_jpeg.rf.1f908f42dfc47bff5416f085aa129db2.jpg | Train"
+      ],
+      "json_keys": [],
+      "tags": [
+        "misc"
+      ]
+    },
+    {
+      "relative_path": "weightLogInfo_merged.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\weightLogInfo_merged.csv",
+      "category": "weightLogInfo_merged.csv",
+      "extension": ".csv",
+      "size_bytes": 6657,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "Id",
+        "Date",
+        "WeightKg",
+        "WeightPounds",
+        "Fat",
+        "BMI",
+        "IsManualReport",
+        "LogId"
+      ],
+      "sample": [
+        "1503960366 | 5/2/2016 11:59:59 PM | 52.5999984741211 | 115.963146545323 | 22 | 22.6499996185303 | True | 1462233599000",
+        "1503960366 | 5/3/2016 11:59:59 PM | 52.5999984741211 | 115.963146545323 | 22.6499996185303 | True | 1462319999000"
+      ],
+      "json_keys": [],
+      "tags": [
+        "body_progress",
+        "nutrition"
+      ]
+    },
+    {
+      "relative_path": "wweia_food_category.csv",
+      "absolute_path": "D:\\Ai Fit Coach\\AI Fit Coach\\ai_backend\\datasets\\wweia_food_category.csv",
+      "category": "wweia_food_category.csv",
+      "extension": ".csv",
+      "size_bytes": 5119,
+      "modified_at": "2026-04-30T19:43:04+00:00",
+      "header": [
+        "wweia_food_category",
+        "wweia_food_category_description"
+      ],
+      "sample": [
+        "1002 | Milk, whole",
+        "1004 | Milk, reduced fat"
+      ],
+      "json_keys": [],
+      "tags": [
+        "nutrition"
+      ]
+    }
+  ]
+}

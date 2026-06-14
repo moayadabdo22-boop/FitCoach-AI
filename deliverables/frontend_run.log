@@ -1,0 +1,48 @@
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite --host 127.0.0.1 --port 8080
+
+
+  [32m[1mVITE[22m v5.4.19[39m  [2mready in [0m[1m3360[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m8080[22m/[39m
+[2m5:54:07 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m5:54:08 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m7:45:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Onboarding.tsx, /src/pages/Auth.tsx, /src/pages/Profile.tsx, /src/pages/Schedule.tsx, /src/pages/Coach.tsx, /src/contexts/UserContext.tsx, /src/App.tsx, /src/pages/Index.tsx, /src/pages/CoachNotifications.tsx, /src/components/CoachNotificationsListener.tsx, /src/components/layout/Navbar.tsx, /src/pages/Reports.tsx[22m
+[2m7:45:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Onboarding.tsx, /src/index.css, /src/pages/Auth.tsx, /src/pages/Profile.tsx, /src/pages/Schedule.tsx, /src/pages/Coach.tsx, /src/contexts/UserContext.tsx, /src/App.tsx, /src/pages/Index.tsx, /src/pages/CoachNotifications.tsx, /src/components/CoachNotificationsListener.tsx, /src/components/layout/Navbar.tsx, /src/pages/Reports.tsx[22m
+[2m7:45:25 PM[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/contexts/UserContext.tsx[22m Could not Fast Refresh ("defaultProfile" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+[2m7:45:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Workouts.tsx, /src/pages/Profile.tsx, /src/pages/Coach.tsx, /src/components/workout/AnatomyBody.tsx[22m
+[2m7:46:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Auth.tsx, /src/pages/CoachNotifications.tsx, /src/pages/Profile.tsx, /src/pages/Schedule.tsx, /src/pages/Coach.tsx, /src/contexts/UserContext.tsx, /src/components/CoachNotificationsListener.tsx, /src/components/layout/Navbar.tsx, /src/pages/Reports.tsx[22m
+[2m7:46:02 PM[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/contexts/UserContext.tsx[22m Could not Fast Refresh ("defaultProfile" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+[2m7:46:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Workouts.tsx, /src/pages/Profile.tsx, /src/pages/Coach.tsx, /src/components/workout/AnatomyBody.tsx[22m
+[2m7:46:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Auth.tsx, /src/pages/CoachNotifications.tsx, /src/pages/Profile.tsx, /src/pages/Schedule.tsx, /src/pages/Coach.tsx, /src/contexts/UserContext.tsx, /src/components/CoachNotificationsListener.tsx, /src/components/layout/Navbar.tsx, /src/pages/Reports.tsx[22m
+[2m7:46:24 PM[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/contexts/UserContext.tsx[22m Could not Fast Refresh ("defaultProfile" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+[2m7:46:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Workouts.tsx, /src/pages/Profile.tsx, /src/pages/Coach.tsx, /src/components/workout/AnatomyBody.tsx[22m
+[2m7:46:30 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Auth.tsx, /src/pages/CoachNotifications.tsx, /src/pages/Profile.tsx, /src/pages/Schedule.tsx, /src/pages/Coach.tsx, /src/contexts/UserContext.tsx, /src/components/CoachNotificationsListener.tsx, /src/components/layout/Navbar.tsx, /src/pages/Reports.tsx[22m
+[2m7:46:31 PM[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/contexts/UserContext.tsx[22m Could not Fast Refresh ("defaultProfile" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react-swc#consistent-components-exports
+[2m7:46:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/App.tsx, /src/pages/Index.tsx, /src/pages/Onboarding.tsx, /src/pages/Workouts.tsx, /src/pages/Profile.tsx, /src/pages/Coach.tsx, /src/components/workout/AnatomyBody.tsx[22m
+[2m7:47:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx, /src/index.css[22m
+[2m7:47:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx, /src/index.css[22m
+[2m7:49:35 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx, /src/index.css[22m
+[2m7:51:39 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m7:51:39 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m8:50:37 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m8:50:38 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m1:58:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m1:58:14 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m2:07:57 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m2:07:57 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m2:08:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m2:16:27 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:16:38 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:16:50 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:16:50 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:17:00 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:17:10 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:17:19 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:17:40 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m2:33:47 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Workouts.tsx, /src/contexts/LanguageContext.tsx, /src/pages/Coach.tsx, /src/components/workout/ExerciseCard.tsx, /src/components/workout/AnatomyBody.tsx[22m
+[2m3:12:36 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2m.conda/Lib/idlelib/help.html[22m
+[2m4:24:35 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/components/workout/ExerciseCard.tsx[22m
+[2m4:24:35 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Coach.tsx, /src/index.css[22m
+[2m4:24:35 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Workouts.tsx, /src/contexts/LanguageContext.tsx, /src/pages/Coach.tsx, /src/components/workout/ExerciseCard.tsx, /src/components/workout/AnatomyBody.tsx[22m

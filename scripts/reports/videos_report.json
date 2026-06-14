@@ -1,0 +1,5954 @@
+{
+  "summary": {
+    "total_disk_files": 456,
+    "disk_by_gender": {
+      "female": 226,
+      "male": 230
+    },
+    "total_resolver_references": 456,
+    "resolver_by_gender": {
+      "female": 226,
+      "male": 230
+    },
+    "missing_references": {
+      "female": 0,
+      "male": 0
+    },
+    "unreferenced_disk_files": 0
+  },
+  "missing_files": {
+    "female": [],
+    "male": []
+  },
+  "unreferenced_files": [],
+  "files": [
+    {
+      "file": "Abs-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/Abs-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Abs-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/Abs-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Abs-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/Abs-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Abs-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/Abs-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Abs-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/Abs-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Abs-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/Abs-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Abs-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/Abs-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Abs-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/Abs-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Abs",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BackExtension_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BackExtension_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BackExtension_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BackExtension_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BackExtension_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BackExtension_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BackExtension_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BackExtension_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BarbellDeadlift_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BarbellDeadlift_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BarbellDeadlift_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BarbellDeadlift_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BarbellDeadlift_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BarbellDeadlift_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BarbellDeadlift_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BarbellDeadlift_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BodyweightGoodMornings_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BodyweightGoodMornings_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BodyweightGoodMornings_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_BodyweightGoodMornings_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_BodyweightGoodMornings_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BodyweightGoodMornings_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_BodyweightGoodMornings_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_BodyweightGoodMornings_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/ErectorSpinae_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "ErectorSpinae_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "ErectorSpinae_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/ErectorSpinae_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "ErectorSpinae",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Gastrocnemius_BodyweightCalfRaise_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Gastrocnemius_BodyweightCalfRaise_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Gastrocnemius_BodyweightCalfRaise_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Gastrocnemius_BodyweightCalfRaise_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Gastrocnemius_BodyweightCalfRaise_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Gastrocnemius_BodyweightCalfRaise_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Gastrocnemius_BodyweightCalfRaise_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Gastrocnemius_BodyweightCalfRaise_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Gastrocnemius_SmithMachineCalfRaise_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Gastrocnemius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BarbellHipThrust_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BarbellHipThrust_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BarbellHipThrust_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BarbellHipThrust_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BarbellHipThrust_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BarbellHipThrust_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BarbellHipThrust_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BarbellHipThrust_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BarbellSquat_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BarbellSquat_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BarbellSquat_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BarbellSquat_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BarbellSquat_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BarbellSquat_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BarbellSquat_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BarbellSquat_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BodyweightWaitersBow_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BodyweightWaitersBow_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BodyweightWaitersBow_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BodyweightWaitersBow_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BodyweightWaitersBow_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BodyweightWaitersBow_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BodyweightWaitersBow_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BodyweightWaitersBow_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BoxJump_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BoxJump_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BoxJump_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMaximus_BoxJump_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMaximus_BoxJump_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BoxJump_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMaximus_BoxJump_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMaximus_BoxJump_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMaximus",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BarbellSquat_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_BarbellSquat_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_BarbellSquat_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_BarbellSquat_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_BarbellSquat_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BarbellSquat_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BarbellSquat_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BarbellSquat_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Female_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Female_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_BodyweightStaggeredWaitersBow_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_MachineGluteKickback_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_MachineGluteKickback_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_MachineGluteKickback_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_MachineGluteKickback_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_MachineGluteKickback_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_MachineGluteKickback_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_MachineGluteKickback_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_MachineGluteKickback_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/GluteusMedius_SingleLeggedRomanianDeadlifts_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "GluteusMedius",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_BarbellStiffLegDeadlifts_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_BodyweightWaitersBow_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_BodyweightWaitersBow_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_BodyweightWaitersBow_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_BodyweightWaitersBow_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_BodyweightWaitersBow_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_BodyweightWaitersBow_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_BodyweightWaitersBow_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_BodyweightWaitersBow_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_LandmineRomanianDeadlift_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_LandmineRomanianDeadlift_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_LandmineRomanianDeadlift_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_LandmineRomanianDeadlift_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_LandmineRomanianDeadlift_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_LandmineRomanianDeadlift_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_LandmineRomanianDeadlift_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_LandmineRomanianDeadlift_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Hamstrings_SingleLeggedRomanianDeadlifts_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Hamstrings",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_BodyweightSupermanRow_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_BodyweightSupermanRow_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_BodyweightSupermanRow_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_BodyweightSupermanRow_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_BodyweightSupermanRow_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_BodyweightSupermanRow_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_BodyweightSupermanRow_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_BodyweightSupermanRow_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_LatPulldown_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_LatPulldown_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_LatPulldown_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_LatPulldown_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_LatPulldown_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_LatPulldown_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_LatPulldown_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_LatPulldown_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_SeatedCableRow_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_SeatedCableRow_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_SeatedCableRow_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_SeatedCableRow_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_SeatedCableRow_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_SeatedCableRow_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_SeatedCableRow_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_SeatedCableRow_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/LatissimusDorsi_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "LatissimusDorsi_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "LatissimusDorsi_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/LatissimusDorsi_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "LatissimusDorsi",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_BodyweightReverseFly_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_BodyweightReverseFly_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_BodyweightReverseFly_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_BodyweightReverseFly_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_BodyweightReverseFly_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_BodyweightReverseFly_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_BodyweightReverseFly_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_BodyweightReverseFly_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_FacePull_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_FacePull_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_FacePull_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_FacePull_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_FacePull_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_FacePull_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_FacePull_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_FacePull_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_ReversePecDeck_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_ReversePecDeck_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_ReversePecDeck_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_ReversePecDeck_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_ReversePecDeck_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_ReversePecDeck_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_ReversePecDeck_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_ReversePecDeck_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/PosteriorDeltoid_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "PosteriorDeltoid_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "PosteriorDeltoid_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/PosteriorDeltoid_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "PosteriorDeltoid",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_BodyweightCalfRaise_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Soleus_BodyweightCalfRaise_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_BodyweightCalfRaise_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Soleus_BodyweightCalfRaise_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_BodyweightCalfRaise_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Soleus_BodyweightCalfRaise_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_BodyweightCalfRaise_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Soleus_BodyweightCalfRaise_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_SeatedCalfRaise_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Soleus_SeatedCalfRaise_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_SeatedCalfRaise_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Soleus_SeatedCalfRaise_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_SeatedCalfRaise_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Soleus_SeatedCalfRaise_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_SeatedCalfRaise_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Soleus_SeatedCalfRaise_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_SmithMachineCalfRaise_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Soleus_SmithMachineCalfRaise_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_SmithMachineCalfRaise_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Soleus_SmithMachineCalfRaise_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Soleus_SmithMachineCalfRaise_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Soleus_SmithMachineCalfRaise_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Soleus_SmithMachineCalfRaise_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Soleus_SmithMachineCalfRaise_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Soleus",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_BodyweightReverseFly_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_BodyweightReverseFly_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_BodyweightReverseFly_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_BodyweightReverseFly_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_BodyweightReverseFly_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_BodyweightReverseFly_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_BodyweightReverseFly_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_BodyweightReverseFly_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_LatPulldown_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_LatPulldown_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_LatPulldown_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_LatPulldown_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_LatPulldown_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_LatPulldown_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_LatPulldown_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_LatPulldown_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_SeatedCableRow_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_SeatedCableRow_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_SeatedCableRow_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_SeatedCableRow_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_SeatedCableRow_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_SeatedCableRow_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_SeatedCableRow_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_SeatedCableRow_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMajor_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMajor_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMajor_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMajor_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMajor",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_BodyweightExternalRotation_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_BodyweightExternalRotation_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_BodyweightExternalRotation_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_BodyweightExternalRotation_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_BodyweightExternalRotation_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_BodyweightExternalRotation_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_BodyweightExternalRotation_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_BodyweightExternalRotation_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_CableExternalRotation_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_CableExternalRotation_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_CableExternalRotation_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_CableExternalRotation_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_CableExternalRotation_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_CableExternalRotation_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_CableExternalRotation_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_CableExternalRotation_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_FacePull_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_FacePull_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_FacePull_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_FacePull_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_FacePull_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_FacePull_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_FacePull_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_FacePull_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TeresMinor_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TeresMinor_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TeresMinor_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TeresMinor_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TeresMinor",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_BarbellShrug_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_BarbellShrug_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_BarbellShrug_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_BarbellShrug_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_BarbellShrug_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_BarbellShrug_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_BarbellShrug_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_BarbellShrug_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_BodyweightShrug_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_BodyweightShrug_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_BodyweightShrug_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_BodyweightShrug_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_BodyweightShrug_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_BodyweightShrug_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_BodyweightShrug_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_BodyweightShrug_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_FacePull_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_FacePull_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_FacePull_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_FacePull_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_FacePull_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_FacePull_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_FacePull_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_FacePull_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_SupermanHold_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_SupermanHold_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_SupermanHold_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/Trapezius_SupermanHold_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "Trapezius_SupermanHold_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_SupermanHold_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "Trapezius_SupermanHold_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/Trapezius_SupermanHold_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "Trapezius",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_CloseGripBenchPress_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_CloseGripBenchPress_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_CloseGripBenchPress_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_CloseGripBenchPress_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_CloseGripBenchPress_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_CloseGripBenchPress_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_CloseGripBenchPress_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_CloseGripBenchPress_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_TricepPushdown_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_TricepPushdown_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_TricepPushdown_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLateralHead_TricepPushdown_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLateralHead_TricepPushdown_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_TricepPushdown_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLateralHead_TricepPushdown_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLateralHead_TricepPushdown_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLateralHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_CableOverheadTricepExtension_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_TricepPushdown_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_TricepPushdown_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_TricepPushdown_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsLongHead_TricepPushdown_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsLongHead_TricepPushdown_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_TricepPushdown_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsLongHead_TricepPushdown_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsLongHead_TricepPushdown_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsLongHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_BodyweightTricepExtension_Home_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_BodyweightTricepExtension_Home_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_BodyweightTricepExtension_Home_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_BodyweightTricepExtension_Home_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_CloseGripBenchPress_Gym_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_CloseGripBenchPress_Gym_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_CloseGripBenchPress_Gym_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_CloseGripBenchPress_Gym_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_CloseGripBenchPress_Gym_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_CloseGripBenchPress_Gym_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_CloseGripBenchPress_Gym_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_CloseGripBenchPress_Gym_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_DiamondPushUp_Home_General_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_DiamondPushUp_Home_General_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_DiamondPushUp_Home_General_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_DiamondPushUp_Home_General_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "home",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Female_1.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Female_1.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Female_2.mp4",
+      "path": "/videos/back-muscles/female/TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Female_2.mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Male_1.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Male_1.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Male_2.mp4",
+      "path": "/videos/back-muscles/male/TricepsMedialHead_ReverseGripTricepPushdown_Gym_Build_Male_2.mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "TricepsMedialHead",
+      "location": "gym",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "anterior-deltoid_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/anterior-deltoid_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "anterior-deltoid_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/anterior-deltoid_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "anterior-deltoid_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/anterior-deltoid_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "anterior-deltoid_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/anterior-deltoid_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "anterior-deltoid_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/anterior-deltoid_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "anterior-deltoid_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/anterior-deltoid_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "anterior-deltoid_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/anterior-deltoid_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "anterior-deltoid_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/anterior-deltoid_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "anterior-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "biceps-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/biceps-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "biceps-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/biceps-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "biceps-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/biceps-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "biceps-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/biceps-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "biceps-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/biceps-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "biceps-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/biceps-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "biceps-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/biceps-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "biceps-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/biceps-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "biceps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "calves-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/calves-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "calves-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/calves-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "calves-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/calves-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "calves-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/calves-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "calves-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/calves-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "calves-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/calves-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "calves-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/calves-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "calves-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/calves-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "calves",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "chest-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/chest-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "chest-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/chest-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "chest-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/chest-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "chest-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/chest-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "chest-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/chest-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "chest-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/chest-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "chest-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/chest-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "chest-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/chest-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "chest",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "feet_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/feet_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "feet_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/feet_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "feet_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/feet_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "feet_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/feet_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "feet_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/feet_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "feet_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/feet_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "feet_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/feet_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "feet_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/feet_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "feet",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "forearms-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/forearms-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "forearms-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/forearms-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "forearms-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/forearms-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "forearms-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/forearms-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "forearms-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/forearms-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "forearms-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/forearms-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "forearms-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/forearms-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "forearms-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/forearms-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "forearms",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "front-shoulders-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/front-shoulders-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "front-shoulders-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/front-shoulders-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "front-shoulders-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/front-shoulders-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "front-shoulders-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/front-shoulders-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "front-shoulders-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/front-shoulders-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "front-shoulders-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/front-shoulders-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "front-shoulders-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/front-shoulders-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "front-shoulders-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/front-shoulders-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "front-shoulders",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "gastrocnemius_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/gastrocnemius_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "gastrocnemius_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/gastrocnemius_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "gastrocnemius_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/gastrocnemius_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "gastrocnemius_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/gastrocnemius_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "gastrocnemius_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/gastrocnemius_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "gastrocnemius_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/gastrocnemius_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "gastrocnemius_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/gastrocnemius_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "gastrocnemius_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/gastrocnemius_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "gastrocnemius",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "groin-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/groin-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "groin-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/groin-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "groin-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/groin-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "groin-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/groin-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "groin-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/groin-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "groin-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/groin-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "groin-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/groin-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "groin-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/groin-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "groin",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "hands-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/hands-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "hands-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/hands-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "hands-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/hands-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "hands-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/hands-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "hands-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/hands-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "hands-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/hands-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "hands-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/hands-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "hands-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/hands-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "hands",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "inner-thigh_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/inner-thigh_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "inner-thigh_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/inner-thigh_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "inner-thigh_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/inner-thigh_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "inner-thigh_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/inner-thigh_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "inner-thigh_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/inner-thigh_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "inner-thigh_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/inner-thigh_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "inner-thigh_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/inner-thigh_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "inner-thigh_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/inner-thigh_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "inner-thigh",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_asvanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_asvanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_asvanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_asvanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_asvanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_asvanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_asvanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_asvanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/lateral-deltoid_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lateral-deltoid_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lateral-deltoid_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/lateral-deltoid_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lateral-deltoid",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "long-head-bicep_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/long-head-bicep_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "long-head-bicep_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/long-head-bicep_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "long-head-bicep_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/long-head-bicep_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "long-head-bicep_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/long-head-bicep_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "long-head-bicep_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/long-head-bicep_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "long-head-bicep_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/long-head-bicep_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "long-head-bicep_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/long-head-bicep_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "long-head-bicep_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/long-head-bicep_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "long-head-bicep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lower-abdominals-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/lower-abdominals-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lower-abdominals-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/lower-abdominals-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "lower-abdominals-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/lower-abdominals-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lower-abdominals-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/lower-abdominals-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "lower-abdominals-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/lower-abdominals-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "lower-abdominals-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/lower-abdominals-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "lower-abdominals-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/lower-abdominals-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "lower-abdominals-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/lower-abdominals-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "lower-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "mid-lower-pectoralis-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/mid-lower-pectoralis-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "mid-lower-pectoralis-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/mid-lower-pectoralis-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "mid-lower-pectoralis-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/mid-lower-pectoralis-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "mid-lower-pectoralis-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/mid-lower-pectoralis-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "mid-lower-pectoralis-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/mid-lower-pectoralis-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "mid-lower-pectoralis-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/mid-lower-pectoralis-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "mid-lower-pectoralis-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/mid-lower-pectoralis-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "mid-lower-pectoralis-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/mid-lower-pectoralis-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "mid-lower-pectoralis",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "neck_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/neck_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "neck_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/neck_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "neck_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/neck_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "neck_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/neck_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "neck_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/neck_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "neck_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/neck_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "neck_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/neck_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "neck_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/neck_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "neck",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "obliques-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/obliques-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "obliques-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/obliques-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "obliques-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/obliques-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "obliques-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/obliques-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "obliques-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/obliques-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "obliques-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/obliques-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "obliques-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/obliques-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "obliques-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/obliques-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "obliques",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "outer-quadricep_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/outer-quadricep_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "outer-quadricep_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/outer-quadricep_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "outer-quadricep_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/outer-quadricep_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "outer-quadricep_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/outer-quadricep_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "outer-quadricep_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/outer-quadricep_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "outer-quadricep_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/outer-quadricep_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "outer-quadricep_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/outer-quadricep_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "outer-quadricep_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/outer-quadricep_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "outer-quadricep",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "quads-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/quads-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "quads-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/quads-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "quads-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/quads-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "quads-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/quads-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "quads-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/quads-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "quads-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/quads-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "quads-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/quads-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "quads-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/quads-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "quads",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "rectus-femoris_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/rectus-femoris_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "rectus-femoris_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/rectus-femoris_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "rectus-femoris_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/rectus-femoris_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "rectus-femoris_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/rectus-femoris_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "rectus-femoris_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/rectus-femoris_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "rectus-femoris_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/rectus-femoris_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "rectus-femoris_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/rectus-femoris_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "rectus-femoris_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/rectus-femoris_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "rectus-femoris",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "soleus_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/soleus_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "soleus_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/soleus_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "soleus_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/soleus_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "soleus_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/soleus_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "soleus_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/soleus_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "soleus_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/soleus_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "soleus_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/soleus_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "soleus_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/soleus_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "soleus",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "tibialis_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/tibialis_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "tibialis_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/tibialis_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "tibialis_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/tibialis_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "tibialis_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/tibialis_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "tibialis_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/tibialis_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "tibialis_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/tibialis_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "tibialis_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/tibialis_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "tibialis_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/tibialis_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "tibialis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "traps-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/traps-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "traps-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/traps-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "traps-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/traps-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "traps-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/traps-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "traps-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/traps-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "traps-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/traps-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "traps-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/traps-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "traps-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/traps-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "traps",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals- basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals- basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals- basic",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals- basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals- basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals- basic",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals- basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals- basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals- basic",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-advance-female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-advance-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-advance-female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-advance-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-advance-male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-advance-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-advance-male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-advance-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-basic-female(2)..mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-basic-female(2)..mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals-basic-female(2).",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals_advance_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals_advance_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals_advance_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals_advance_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals_advance_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals_advance_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals_advance_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals_advance_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-abdominals_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-abdominals_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-abdominals_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-abdominals_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-abdominals",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-pectoralis_advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-pectoralis_advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-pectoralis_advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-pectoralis_advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-pectoralis_advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-pectoralis_advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-pectoralis_advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-pectoralis_advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-pectoralis_basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-pectoralis_basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-pectoralis_basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-pectoralis_basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-pectoralis_basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-pectoralis_basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-pectoralis_basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-pectoralis_basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-pectoralis",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-trapzeius-advanced_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-trapzeius-advanced_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-trapzeius-advanced",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-trapzeius-advanced_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-trapzeius-advanced_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-trapzeius-advanced",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-trapzeius-advanced_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-trapzeius-advanced_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-trapzeius-advanced",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-trapzeius-advanced_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-trapzeius-advanced_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-trapzeius-advanced",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-trapzeius-basic_female(1).mp4",
+      "path": "/videos/back-muscles/female/upper-trapzeius-basic_female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-trapzeius-basic",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-trapzeius-basic_female(2).mp4",
+      "path": "/videos/back-muscles/female/upper-trapzeius-basic_female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "upper-trapzeius-basic",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "upper-trapzeius-basic_male(1).mp4",
+      "path": "/videos/back-muscles/male/upper-trapzeius-basic_male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-trapzeius-basic",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "upper-trapzeius-basic_male(2).mp4",
+      "path": "/videos/back-muscles/male/upper-trapzeius-basic_male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "upper-trapzeius-basic",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "wrist-flexors-advanced-female(1).mp4",
+      "path": "/videos/back-muscles/female/wrist-flexors-advanced-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "wrist-flexors-advanced-female(2).mp4",
+      "path": "/videos/back-muscles/female/wrist-flexors-advanced-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "female"
+    },
+    {
+      "file": "wrist-flexors-advanced-male(1).mp4",
+      "path": "/videos/back-muscles/male/wrist-flexors-advanced-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "wrist-flexors-advanced-male(2).mp4",
+      "path": "/videos/back-muscles/male/wrist-flexors-advanced-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "build",
+      "gender": "male"
+    },
+    {
+      "file": "wrist-flexors-basic-female(1).mp4",
+      "path": "/videos/back-muscles/female/wrist-flexors-basic-female(1).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "wrist-flexors-basic-female(2).mp4",
+      "path": "/videos/back-muscles/female/wrist-flexors-basic-female(2).mp4",
+      "gender_on_disk": "female",
+      "in_resolver": true,
+      "resolver_genders": [
+        "female"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "female"
+    },
+    {
+      "file": "wrist-flexors-basic-male(1).mp4",
+      "path": "/videos/back-muscles/male/wrist-flexors-basic-male(1).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    },
+    {
+      "file": "wrist-flexors-basic-male(2).mp4",
+      "path": "/videos/back-muscles/male/wrist-flexors-basic-male(2).mp4",
+      "gender_on_disk": "male",
+      "in_resolver": true,
+      "resolver_genders": [
+        "male"
+      ],
+      "muscle": "wrist-flexors",
+      "location": "unknown",
+      "goal": "general",
+      "gender": "male"
+    }
+  ]
+}
