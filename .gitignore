@@ -1,0 +1,73 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.history/
+tmp/
+supabase/.temp/
+
+# Python virtual environments and caches
+ai_backend/venv/
+venv/
+.venv/
+.venv311/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local backup/worktree copies
+.pushrepo3/
+
+# Backend runtime logs
+ai_backend/ai_backend/logs/
+
+# Large voice assets (use Git LFS - tracked in .gitattributes)
+# ai_backend/voice_assets/** - now tracked by LFS
+
+# Audio cache files
+ai_backend/*.wav
+ai_backend/static/audio/reply_*.wav
+ai_backend/data/dataset_registry_index.json
+ai_backend/data/local_store.json
+ai_backend/data/rag_store/user_context_*/
+ai_backend/models/training_cache/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Binary/model files are tracked via Git LFS (see .gitattributes)
+# Removed explicit ignore rules for model/dataset files so they
+# can be tracked by Git LFS and pushed to the remote repository.
+
+# Private datasets and large generated artifacts
+ai_backend/datasets/
+ai_backend/voice/models/
+public/videos/
+
+# Ignore local dataset CSVs and exports (do not upload private datasets)
+ai_backend/datasets/
+ai_backend/datasets/*.csv
+
+# Ignore large trained models and voice binaries (keep them local)
+ai_backend/model_*.pkl
+ai_backend/models/
+ai_backend/voice/
+ai_backend/voice/**
